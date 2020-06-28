@@ -1,0 +1,1 @@
+insert into Department2 (ID, number, <pk>) VALUES (‘name’,’warchar2(100)’);

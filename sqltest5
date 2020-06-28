@@ -1,0 +1,2 @@
+INSERT INTO department2 (ID, number, <pk>)
+	VALUES ('Сергей', 1, 500), ('Александр', 2, 600), ('Евгений', 3, 900);
